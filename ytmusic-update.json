@@ -1,6 +1,6 @@
 {
   "version": "v6.12.52",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/Garbonzo17/revanced-magisk-module/releases/download/2/ytmusic-revanced-extended-magisk-v6.12.52-arm64-v8a.zip",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/Garbonzo17/revanced-magisk-module/releases/download/4/ytmusic-revanced-magisk-v6.12.52-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Garbonzo17/revanced-magisk-module/update/build.md"
 }
